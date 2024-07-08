@@ -1,0 +1,14 @@
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/my-JSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/my-JSON.AssemblyInfoInputs.cache
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/my-JSON.AssemblyInfo.cs
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/my-JSON.csproj.CoreCompileInputs.cache
+/Users/salt-dev/salt/my-JSON/bin/Debug/net8.0/my-JSON
+/Users/salt-dev/salt/my-JSON/bin/Debug/net8.0/my-JSON.deps.json
+/Users/salt-dev/salt/my-JSON/bin/Debug/net8.0/my-JSON.runtimeconfig.json
+/Users/salt-dev/salt/my-JSON/bin/Debug/net8.0/my-JSON.dll
+/Users/salt-dev/salt/my-JSON/bin/Debug/net8.0/my-JSON.pdb
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/my-JSON.dll
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/refint/my-JSON.dll
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/my-JSON.pdb
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/my-JSON.genruntimeconfig.cache
+/Users/salt-dev/salt/my-JSON/obj/Debug/net8.0/ref/my-JSON.dll
